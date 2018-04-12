@@ -1,0 +1,4 @@
+2018-04-12 17:50:27 Process12148:17004 Post http://19.15.247.64:8080/InvestPro/minstone/indexAnalysis/getProjectNumByType
+2018-04-12 17:50:27 Process12148:17004 PostExcept empty range for randrange() (0,0, 0)
+2018-04-12 17:50:27 Process12148:17004 Starting new HTTP connection (1): 19.15.247.64
+2018-04-12 17:50:27 Process12148:17004 http://19.15.247.64:8080 "POST /InvestPro/minstone/indexAnalysis/getProjectNumByType HTTP/1.1" 200 151
